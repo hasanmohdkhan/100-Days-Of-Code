@@ -5,7 +5,7 @@
 
 **Today's Progress**: Learn how to add Bottom Navigation. 
 
-**Thoughts:**Basic for andriod and it will help me in my Furture project.
+**Thoughts:** Basic for andriod and it will help me in my Furture project.
 
 **Link to work:** [Navigation-in-Andriod](https://github.com/hasanmohdkhan/Bottom-Navigation-in-Andriod)
 
